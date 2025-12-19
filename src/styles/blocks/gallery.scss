@@ -73,7 +73,7 @@
   #photo4:checked ~ .gallery__scroll label:nth-child(4) {
     background-color: $accent-green-color;
   }
-  /* stylelint-enable */
+  /* stylelint-enable selector-max-id */
   &__photos {
     display: grid;
     width: 100%;

@@ -1322,7 +1322,7 @@
   width: 100%;
   height: 1px;
   margin-bottom: 40px;
-  background-color: rgba(26, 90, 76, 0.5019607843);
+  background-color: rgba(26, 90, 76, 0.5);
 }
 
 @media (min-width: 768px) {
