@@ -3,7 +3,7 @@
 A modern responsive museum landing page built according to a Figma design. This project demonstrates clean, scalable markup using HTML5, SCSS, and the BEM methodology, with a strong focus on layout accuracy and adaptability.
 
 ## Demo Link
-- [Museum Landing Page Demo]()
+- [Museum Landing Page Demo](https://vall-re.github.io/Landing-page_Museum/)
 
 ## Design
 
@@ -14,9 +14,9 @@ The layout is based on a Figma design:
 - Maximum width: 1280px
 - Fonts: IBM Plex Sans, Montserrat
 - Breakpoints:
-- - Desktop — ≥ 1024px
-- - Tablet — ≥ 768px
-- - Mobile — ≥ 320px
+  + Desktop — ≥ 1024px
+  * Tablet — ≥ 768px
+  - Mobile — ≥ 320px
 
 ## Technologies Used
 - HTML5 — semantic markup
@@ -35,9 +35,9 @@ The layout is based on a Figma design:
 
 ## Current Exhibitions
 - The page includes three event sections with titles, descriptions, and images, presenting thematic content about different art styles:
-- - "Йду і повертаюсь"
-- - "І спогади і мрії"
-- - "Від класицизму до романтизму"
+  + "Йду і повертаюсь"
+  - "І спогади і мрії"
+  * "Від класицизму до романтизму"
 
 ## Gallery
 - Image grid layout
