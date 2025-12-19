@@ -2,8 +2,9 @@
 
 A modern responsive museum landing page built according to a Figma design. This project demonstrates clean, scalable markup using HTML5, SCSS, and the BEM methodology, with a strong focus on layout accuracy and adaptability.
 
-## Demo Link
+## Demo Links
 - [Museum Landing Page Demo](https://vall-re.github.io/Landing-page_Museum/)
+- [GitHub repository](https://github.com/Vall-Re/Landing-page_Museum)
 
 ## Design
 
@@ -11,20 +12,20 @@ The layout is based on a Figma design:
 - [Figma Design Link](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f&t=ECv8vMkgJzufOBCb-0)
 
 ### Design specifications:
-- Maximum width: 1280px
-- Fonts: IBM Plex Sans, Montserrat
-- Breakpoints:
-  + Desktop — ≥ 1024px
+- **Maximum width:** 1280px
+- **Fonts:** IBM Plex Sans, Montserrat
+- **Breakpoints:**
+  * Desktop — ≥ 1024px
   * Tablet — ≥ 768px
-  - Mobile — ≥ 320px
+  * Mobile — ≥ 320px
 
 ## Technologies Used
-- HTML5 — semantic markup
-- SCSS — modular and maintainable styling
-- BEM — consistent class naming methodology
-- Flexbox & CSS Grid — layout structure
-- Responsive Design — desktop, tablet, and mobile support
-- Google Fonts — IBM Plex Sans, Montserrat
+- **HTML5** — semantic markup
+- **SCSS** — modular and maintainable styling
+- **BEM** — consistent class naming methodology
+- **Flexbox & CSS Grid** — layout structure
+- **Responsive Design** — desktop, tablet, and mobile support
+- **Google Fonts** — IBM Plex Sans, Montserrat
 
 ## Features
 ### Header
